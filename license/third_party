@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Third party licenses</title>
+<body>
+<h3 style="text-align:center;">Third party licenses</h3>
+
+<p>FrITA uses some third party components.</p>
+<p>The segmentation rules have mostly been taken from OmegaT 3.0.1, which was released under the GPL v.3.</p>
+<p>Support for importing .docx files has been implemented using a slightly modified part of docx.py originally by Mike MacCana, which is licensed under the [MIT license] (http://www.opensource.org/licenses/mit-license.php) or docx.py_LICENSE in the license directory.
+</p>
+
+</body>
+</html>

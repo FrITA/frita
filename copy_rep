@@ -1,0 +1,13 @@
+*__pycache__*
+*.pyc
+.git
+.git/*
+.gitignore
+stats
+stats/*
+.db
+todo
+TODO
+zip_frita.py
+docs/*
+
