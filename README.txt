@@ -1,7 +1,7 @@
 FrITA is the Free Interactive Text Aligner.
 
 Copyright Gregory Vigo Torres, 2013
-All code included in this software distribution, unless indicated otherwise, is the GPL v. 3.
+All code included in this software distribution, unless indicated otherwise, is licensed under the GPL v. 3.
 
 This readme is for the FrITA demo release. 
 
