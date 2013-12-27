@@ -35,7 +35,7 @@ And:
     Make sure you have the dependencies installed for the Python3 installation you'll be using for FrITA. 
 
 INSTALLATION
-    There is currently no installer, but being as FrITA is written entirely in Python, there's not much to install.
+    There is currently no installer, but being as FrITA is essentially just a Python script, there's not much to install.
     There is an icon called app_icon.svg in the icons directory that you can use for launchers and things.
 
     After you have all the dependencies installed:
