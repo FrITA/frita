@@ -5,7 +5,7 @@ import os.path
 
 app = None
 APP_NAME = 'FrITA'
-VERSION = '1.0_dev'
+VERSION = '0.0-demo'
 OTMF = 'FrITA TMX'
 BASE_DIR = QDir.homePath()
 CONF_DIR = os.path.join(BASE_DIR, '.frita_conf')
